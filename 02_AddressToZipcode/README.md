@@ -1,13 +1,15 @@
 # Address To Zipcode
 
-This program translates Japanese into Romaji. The input file must be a CSV file.
+This program is used to convert addresses to zipcodes and vice versa. The input file must be a CSV file.
 
-After installing the executable file, there is another. EXE file named JpnToRomaji with an R icon. And this is the application.
+After installing the executable file, there is another. EXE file named AddressToZip with an postal icon. And this is the application.
 
-※ Python pykakasi(https://pypi.org/project/pykakasi/) package was used in the program.
+※ This application uses API requests provided by MilyField (https://zipcode.milkyfieldcompany.com/).
+
+※ If you want to use this application, please apply your own API KEY on MilyField official site. And replace the API KEY in the program with your own Key.
 
 ## Address To Zipcode Example
-![01](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/f3d3c71e-cffd-43b5-bfcb-b33ded9c4f60)
+![01](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/ba282efe-4522-4ccc-9ba4-3a3c7c123bd7)
 ![02](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/196d42ed-810d-402a-a32c-3677d2ad524a)
 
 ## Zipcode To Address Example
