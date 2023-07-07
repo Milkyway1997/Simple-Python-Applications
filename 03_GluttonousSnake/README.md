@@ -1,10 +1,12 @@
 # Gluttonous Snake
+This application(Game) is not used for handling Excel files. The purpose of creating this program is for me to learn and explore the "PySimpleGui" library.
 
+※ The program's core and basic code are from (https://www.youtube.com/watch?v=kQ8DGP9p2LY&t=8987s&ab_channel=ClearCode) Snake part. And I added some new game rules and a game menu that allows players to pause the game, retry the game, adjust the moving speed of the snake, etc.
 
 ## Welcome Page
 ![Screenshot 2023-07-07 162124](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/899008b9-e35b-4e6d-81ba-b7ba9b38b067)
 
-## Playing Page
+## During Play
 ![Screenshot 2023-07-07 162151](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/8458f969-35c4-4980-b718-2f9f6dd23a17)
 
 ## Pause Page
@@ -14,3 +16,4 @@
 ![Screenshot 2023-07-07 162258](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/87aa5a0b-68ad-4863-82f0-2bc4a8375d20)
 
 ## Win the Game Page
+There will also be a Win the Game page, but I will not post the image here. Please try the game and find out it yourself.
