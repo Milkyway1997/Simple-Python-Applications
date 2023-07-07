@@ -20,4 +20,6 @@ The purpose of creating this game is for me to learn and explore the "PySimpleGu
 ![Screenshot 2023-07-07 162258](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/87aa5a0b-68ad-4863-82f0-2bc4a8375d20)
 
 ## Win the Game Page
+![Screenshot 2023-07-07 165340](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/d6b7d288-0ef2-4270-8c30-fb789b586813)
+
 There will also be a Win the Game page, but I will not post the image here. Please try the game and find out it yourself.
