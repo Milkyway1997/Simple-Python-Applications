@@ -31,4 +31,4 @@ After installing the executable file, there is another. EXE file named AddressTo
 ## Some error prevention cases
 ![09](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/7604eb34-1c20-49bb-9f53-d7952ec0fd35)
 
-※ The application cannot handle the error in which the selected method and input data do not match. For example, if the user selects "zipcode to address" method in the Dropdown menu and selects input data with the address (it should be zipcode in this case).
+※ The application cannot handle the error in which the selected method and input data do not match. For example, if the user selects "zipcode to address" method in the Dropdown menu and selects input data with the address (it should be zipcode in this case), the application will crash.
