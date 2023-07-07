@@ -21,15 +21,11 @@ After installing the executable file, there is another. EXE file named AddressTo
 ![05](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/ede4a5c4-5207-479e-9e48-de6a2024e24c)
 
 ## The program interface
-
 ![07](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/28b79e1c-3c8b-45f7-b067-3efd60906141)
 
 ## After completion
-
 ![08](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/0c298efc-a455-4ea6-be06-b6fbd8cb024e)
 
 ## Some error prevention cases
-
 ![09](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/7604eb34-1c20-49bb-9f53-d7952ec0fd35)
-
 ※ The application cannot handle the error in which the selected method and input data do not match. For example, if the user selects "zipcode to address" method in the Dropdown menu and selects input data with the address (it should be zipcode in this case).
