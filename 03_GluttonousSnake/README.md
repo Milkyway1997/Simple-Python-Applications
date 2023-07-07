@@ -1,7 +1,11 @@
 # Gluttonous Snake
-This application(Game) is not used for handling Excel files. The purpose of creating this program is for me to learn and explore the "PySimpleGui" library.
+This application is not used for handling Excel files.  It is a very simple game.
 
-※ The program's core and basic code are from (https://www.youtube.com/watch?v=kQ8DGP9p2LY&t=8987s&ab_channel=ClearCode) Snake part. And I added some new game rules and a game menu that allows players to pause the game, retry the game, adjust the moving speed of the snake, etc.
+The purpose of creating this game is for me to learn and explore the "PySimpleGui" library.
+
+※ The program's core and basic codes are from (https://www.youtube.com/watch?v=kQ8DGP9p2LY&t=8987s&ab_channel=ClearCode) Snake part. 
+
+※ I added some new rules to the game and created a game menu that allows players to pause the game, retry the game, adjust the moving speed of the snake, etc.
 
 ## Welcome Page
 ![Screenshot 2023-07-07 162124](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/899008b9-e35b-4e6d-81ba-b7ba9b38b067)
