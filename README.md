@@ -1,2 +1,7 @@
 # Simple-Python-Applications
-These are some very simple Python applications for certain Excel handling tasks and others.
+
+## Application 01: Japanese To Romaji
+
+## Application 02: Address To Zipcode
+
+## Application 03: Gluttonous Snake
