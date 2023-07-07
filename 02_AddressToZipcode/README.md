@@ -8,6 +8,8 @@ After installing the executable file, there is another. EXE file named AddressTo
 
 ※ If you want to use this application, please apply your own API KEY on MilyField official site. And replace the API KEY in the program with your own Key.
 
+※ The results/outputs of this application are not guaranteed to be correct. The error rate could be around 1% - 5%, so please double-check the results.
+
 ## Address To Zipcode Example
 ![01](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/ba282efe-4522-4ccc-9ba4-3a3c7c123bd7)
 ![02](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/196d42ed-810d-402a-a32c-3677d2ad524a)
@@ -28,4 +30,5 @@ After installing the executable file, there is another. EXE file named AddressTo
 
 ## Some error prevention cases
 ![09](https://github.com/Milkyway1997/Simple-Python-Applications/assets/73594399/7604eb34-1c20-49bb-9f53-d7952ec0fd35)
+
 ※ The application cannot handle the error in which the selected method and input data do not match. For example, if the user selects "zipcode to address" method in the Dropdown menu and selects input data with the address (it should be zipcode in this case).
