@@ -1,6 +1,8 @@
 # Japanese to Romaji
 This program translates Japanese into Romaji. The input file must be a CSV file.
 
+After installing the executable file, there is another. EXE file named JpnToRomaji with an R icon. And this is the application.
+
 ※ Python pykakasi(https://pypi.org/project/pykakasi/) package was used in the program.
 
 ## Input/Output Example 1
